@@ -1,0 +1,11 @@
+C:\C#Udemy2\InheritanceStackChallenge\bin\Debug\netcoreapp3.0\InheritanceStackChallenge.exe
+C:\C#Udemy2\InheritanceStackChallenge\bin\Debug\netcoreapp3.0\InheritanceStackChallenge.deps.json
+C:\C#Udemy2\InheritanceStackChallenge\bin\Debug\netcoreapp3.0\InheritanceStackChallenge.runtimeconfig.json
+C:\C#Udemy2\InheritanceStackChallenge\bin\Debug\netcoreapp3.0\InheritanceStackChallenge.runtimeconfig.dev.json
+C:\C#Udemy2\InheritanceStackChallenge\bin\Debug\netcoreapp3.0\InheritanceStackChallenge.dll
+C:\C#Udemy2\InheritanceStackChallenge\bin\Debug\netcoreapp3.0\InheritanceStackChallenge.pdb
+C:\C#Udemy2\InheritanceStackChallenge\obj\Debug\netcoreapp3.0\InheritanceStackChallenge.csprojAssemblyReference.cache
+C:\C#Udemy2\InheritanceStackChallenge\obj\Debug\netcoreapp3.0\InheritanceStackChallenge.AssemblyInfoInputs.cache
+C:\C#Udemy2\InheritanceStackChallenge\obj\Debug\netcoreapp3.0\InheritanceStackChallenge.AssemblyInfo.cs
+C:\C#Udemy2\InheritanceStackChallenge\obj\Debug\netcoreapp3.0\InheritanceStackChallenge.dll
+C:\C#Udemy2\InheritanceStackChallenge\obj\Debug\netcoreapp3.0\InheritanceStackChallenge.pdb

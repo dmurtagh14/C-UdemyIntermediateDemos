@@ -1,0 +1,11 @@
+C:\C#Udemy2\InterfacesExtensibility\bin\Debug\netcoreapp3.0\InterfacesExtensibility.exe
+C:\C#Udemy2\InterfacesExtensibility\bin\Debug\netcoreapp3.0\InterfacesExtensibility.deps.json
+C:\C#Udemy2\InterfacesExtensibility\bin\Debug\netcoreapp3.0\InterfacesExtensibility.runtimeconfig.json
+C:\C#Udemy2\InterfacesExtensibility\bin\Debug\netcoreapp3.0\InterfacesExtensibility.runtimeconfig.dev.json
+C:\C#Udemy2\InterfacesExtensibility\bin\Debug\netcoreapp3.0\InterfacesExtensibility.dll
+C:\C#Udemy2\InterfacesExtensibility\bin\Debug\netcoreapp3.0\InterfacesExtensibility.pdb
+C:\C#Udemy2\InterfacesExtensibility\obj\Debug\netcoreapp3.0\InterfacesExtensibility.csprojAssemblyReference.cache
+C:\C#Udemy2\InterfacesExtensibility\obj\Debug\netcoreapp3.0\InterfacesExtensibility.AssemblyInfoInputs.cache
+C:\C#Udemy2\InterfacesExtensibility\obj\Debug\netcoreapp3.0\InterfacesExtensibility.AssemblyInfo.cs
+C:\C#Udemy2\InterfacesExtensibility\obj\Debug\netcoreapp3.0\InterfacesExtensibility.dll
+C:\C#Udemy2\InterfacesExtensibility\obj\Debug\netcoreapp3.0\InterfacesExtensibility.pdb

@@ -1,0 +1,3 @@
+C:\C#Udemy2\InterfacesTestability\obj\Debug\netcoreapp3.0\InterfacesTestability.csprojAssemblyReference.cache
+C:\C#Udemy2\InterfacesTestability\obj\Debug\netcoreapp3.0\InterfacesTestability.AssemblyInfoInputs.cache
+C:\C#Udemy2\InterfacesTestability\obj\Debug\netcoreapp3.0\InterfacesTestability.AssemblyInfo.cs

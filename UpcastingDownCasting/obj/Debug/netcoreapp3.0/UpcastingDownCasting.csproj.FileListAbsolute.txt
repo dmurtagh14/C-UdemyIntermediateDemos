@@ -1,0 +1,11 @@
+C:\C#Udemy2\UpcastingDownCasting\bin\Debug\netcoreapp3.0\UpcastingDownCasting.exe
+C:\C#Udemy2\UpcastingDownCasting\bin\Debug\netcoreapp3.0\UpcastingDownCasting.deps.json
+C:\C#Udemy2\UpcastingDownCasting\bin\Debug\netcoreapp3.0\UpcastingDownCasting.runtimeconfig.json
+C:\C#Udemy2\UpcastingDownCasting\bin\Debug\netcoreapp3.0\UpcastingDownCasting.runtimeconfig.dev.json
+C:\C#Udemy2\UpcastingDownCasting\bin\Debug\netcoreapp3.0\UpcastingDownCasting.dll
+C:\C#Udemy2\UpcastingDownCasting\bin\Debug\netcoreapp3.0\UpcastingDownCasting.pdb
+C:\C#Udemy2\UpcastingDownCasting\obj\Debug\netcoreapp3.0\UpcastingDownCasting.csprojAssemblyReference.cache
+C:\C#Udemy2\UpcastingDownCasting\obj\Debug\netcoreapp3.0\UpcastingDownCasting.AssemblyInfoInputs.cache
+C:\C#Udemy2\UpcastingDownCasting\obj\Debug\netcoreapp3.0\UpcastingDownCasting.AssemblyInfo.cs
+C:\C#Udemy2\UpcastingDownCasting\obj\Debug\netcoreapp3.0\UpcastingDownCasting.dll
+C:\C#Udemy2\UpcastingDownCasting\obj\Debug\netcoreapp3.0\UpcastingDownCasting.pdb

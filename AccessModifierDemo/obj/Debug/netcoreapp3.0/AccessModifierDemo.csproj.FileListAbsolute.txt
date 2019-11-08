@@ -1,0 +1,11 @@
+C:\C#Udemy2\AccessModifierDemo\bin\Debug\netcoreapp3.0\AccessModifierDemo.exe
+C:\C#Udemy2\AccessModifierDemo\bin\Debug\netcoreapp3.0\AccessModifierDemo.deps.json
+C:\C#Udemy2\AccessModifierDemo\bin\Debug\netcoreapp3.0\AccessModifierDemo.runtimeconfig.json
+C:\C#Udemy2\AccessModifierDemo\bin\Debug\netcoreapp3.0\AccessModifierDemo.runtimeconfig.dev.json
+C:\C#Udemy2\AccessModifierDemo\bin\Debug\netcoreapp3.0\AccessModifierDemo.dll
+C:\C#Udemy2\AccessModifierDemo\bin\Debug\netcoreapp3.0\AccessModifierDemo.pdb
+C:\C#Udemy2\AccessModifierDemo\obj\Debug\netcoreapp3.0\AccessModifierDemo.csprojAssemblyReference.cache
+C:\C#Udemy2\AccessModifierDemo\obj\Debug\netcoreapp3.0\AccessModifierDemo.AssemblyInfoInputs.cache
+C:\C#Udemy2\AccessModifierDemo\obj\Debug\netcoreapp3.0\AccessModifierDemo.AssemblyInfo.cs
+C:\C#Udemy2\AccessModifierDemo\obj\Debug\netcoreapp3.0\AccessModifierDemo.dll
+C:\C#Udemy2\AccessModifierDemo\obj\Debug\netcoreapp3.0\AccessModifierDemo.pdb

@@ -1,0 +1,11 @@
+C:\C#Udemy2\PropertiesDemo\bin\Debug\netcoreapp3.0\PropertiesDemo.exe
+C:\C#Udemy2\PropertiesDemo\bin\Debug\netcoreapp3.0\PropertiesDemo.deps.json
+C:\C#Udemy2\PropertiesDemo\bin\Debug\netcoreapp3.0\PropertiesDemo.runtimeconfig.json
+C:\C#Udemy2\PropertiesDemo\bin\Debug\netcoreapp3.0\PropertiesDemo.runtimeconfig.dev.json
+C:\C#Udemy2\PropertiesDemo\bin\Debug\netcoreapp3.0\PropertiesDemo.dll
+C:\C#Udemy2\PropertiesDemo\bin\Debug\netcoreapp3.0\PropertiesDemo.pdb
+C:\C#Udemy2\PropertiesDemo\obj\Debug\netcoreapp3.0\PropertiesDemo.csprojAssemblyReference.cache
+C:\C#Udemy2\PropertiesDemo\obj\Debug\netcoreapp3.0\PropertiesDemo.AssemblyInfoInputs.cache
+C:\C#Udemy2\PropertiesDemo\obj\Debug\netcoreapp3.0\PropertiesDemo.AssemblyInfo.cs
+C:\C#Udemy2\PropertiesDemo\obj\Debug\netcoreapp3.0\PropertiesDemo.dll
+C:\C#Udemy2\PropertiesDemo\obj\Debug\netcoreapp3.0\PropertiesDemo.pdb

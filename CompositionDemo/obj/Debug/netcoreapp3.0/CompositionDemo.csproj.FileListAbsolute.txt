@@ -1,0 +1,11 @@
+C:\C#Udemy2\CompositionDemo\bin\Debug\netcoreapp3.0\CompositionDemo.exe
+C:\C#Udemy2\CompositionDemo\bin\Debug\netcoreapp3.0\CompositionDemo.deps.json
+C:\C#Udemy2\CompositionDemo\bin\Debug\netcoreapp3.0\CompositionDemo.runtimeconfig.json
+C:\C#Udemy2\CompositionDemo\bin\Debug\netcoreapp3.0\CompositionDemo.runtimeconfig.dev.json
+C:\C#Udemy2\CompositionDemo\bin\Debug\netcoreapp3.0\CompositionDemo.dll
+C:\C#Udemy2\CompositionDemo\bin\Debug\netcoreapp3.0\CompositionDemo.pdb
+C:\C#Udemy2\CompositionDemo\obj\Debug\netcoreapp3.0\CompositionDemo.csprojAssemblyReference.cache
+C:\C#Udemy2\CompositionDemo\obj\Debug\netcoreapp3.0\CompositionDemo.AssemblyInfoInputs.cache
+C:\C#Udemy2\CompositionDemo\obj\Debug\netcoreapp3.0\CompositionDemo.AssemblyInfo.cs
+C:\C#Udemy2\CompositionDemo\obj\Debug\netcoreapp3.0\CompositionDemo.dll
+C:\C#Udemy2\CompositionDemo\obj\Debug\netcoreapp3.0\CompositionDemo.pdb

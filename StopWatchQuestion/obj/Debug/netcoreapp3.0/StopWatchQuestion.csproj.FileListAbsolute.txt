@@ -1,0 +1,11 @@
+C:\C#Udemy2\StopWatchQuestion\bin\Debug\netcoreapp3.0\StopWatchQuestion.exe
+C:\C#Udemy2\StopWatchQuestion\bin\Debug\netcoreapp3.0\StopWatchQuestion.deps.json
+C:\C#Udemy2\StopWatchQuestion\bin\Debug\netcoreapp3.0\StopWatchQuestion.runtimeconfig.json
+C:\C#Udemy2\StopWatchQuestion\bin\Debug\netcoreapp3.0\StopWatchQuestion.runtimeconfig.dev.json
+C:\C#Udemy2\StopWatchQuestion\bin\Debug\netcoreapp3.0\StopWatchQuestion.dll
+C:\C#Udemy2\StopWatchQuestion\bin\Debug\netcoreapp3.0\StopWatchQuestion.pdb
+C:\C#Udemy2\StopWatchQuestion\obj\Debug\netcoreapp3.0\StopWatchQuestion.csprojAssemblyReference.cache
+C:\C#Udemy2\StopWatchQuestion\obj\Debug\netcoreapp3.0\StopWatchQuestion.AssemblyInfoInputs.cache
+C:\C#Udemy2\StopWatchQuestion\obj\Debug\netcoreapp3.0\StopWatchQuestion.AssemblyInfo.cs
+C:\C#Udemy2\StopWatchQuestion\obj\Debug\netcoreapp3.0\StopWatchQuestion.dll
+C:\C#Udemy2\StopWatchQuestion\obj\Debug\netcoreapp3.0\StopWatchQuestion.pdb

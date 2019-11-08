@@ -1,0 +1,11 @@
+C:\C#Udemy2\InheritanceDemo\bin\Debug\netcoreapp3.0\InheritanceDemo.exe
+C:\C#Udemy2\InheritanceDemo\bin\Debug\netcoreapp3.0\InheritanceDemo.deps.json
+C:\C#Udemy2\InheritanceDemo\bin\Debug\netcoreapp3.0\InheritanceDemo.runtimeconfig.json
+C:\C#Udemy2\InheritanceDemo\bin\Debug\netcoreapp3.0\InheritanceDemo.runtimeconfig.dev.json
+C:\C#Udemy2\InheritanceDemo\bin\Debug\netcoreapp3.0\InheritanceDemo.dll
+C:\C#Udemy2\InheritanceDemo\bin\Debug\netcoreapp3.0\InheritanceDemo.pdb
+C:\C#Udemy2\InheritanceDemo\obj\Debug\netcoreapp3.0\InheritanceDemo.csprojAssemblyReference.cache
+C:\C#Udemy2\InheritanceDemo\obj\Debug\netcoreapp3.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\C#Udemy2\InheritanceDemo\obj\Debug\netcoreapp3.0\InheritanceDemo.AssemblyInfo.cs
+C:\C#Udemy2\InheritanceDemo\obj\Debug\netcoreapp3.0\InheritanceDemo.dll
+C:\C#Udemy2\InheritanceDemo\obj\Debug\netcoreapp3.0\InheritanceDemo.pdb

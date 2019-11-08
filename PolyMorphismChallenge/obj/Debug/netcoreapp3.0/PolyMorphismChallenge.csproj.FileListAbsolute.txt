@@ -1,0 +1,11 @@
+C:\C#Udemy2\PolyMorphismChallenge\bin\Debug\netcoreapp3.0\PolyMorphismChallenge.exe
+C:\C#Udemy2\PolyMorphismChallenge\bin\Debug\netcoreapp3.0\PolyMorphismChallenge.deps.json
+C:\C#Udemy2\PolyMorphismChallenge\bin\Debug\netcoreapp3.0\PolyMorphismChallenge.runtimeconfig.json
+C:\C#Udemy2\PolyMorphismChallenge\bin\Debug\netcoreapp3.0\PolyMorphismChallenge.runtimeconfig.dev.json
+C:\C#Udemy2\PolyMorphismChallenge\bin\Debug\netcoreapp3.0\PolyMorphismChallenge.dll
+C:\C#Udemy2\PolyMorphismChallenge\bin\Debug\netcoreapp3.0\PolyMorphismChallenge.pdb
+C:\C#Udemy2\PolyMorphismChallenge\obj\Debug\netcoreapp3.0\PolyMorphismChallenge.AssemblyInfoInputs.cache
+C:\C#Udemy2\PolyMorphismChallenge\obj\Debug\netcoreapp3.0\PolyMorphismChallenge.AssemblyInfo.cs
+C:\C#Udemy2\PolyMorphismChallenge\obj\Debug\netcoreapp3.0\PolyMorphismChallenge.dll
+C:\C#Udemy2\PolyMorphismChallenge\obj\Debug\netcoreapp3.0\PolyMorphismChallenge.pdb
+C:\C#Udemy2\PolyMorphismChallenge\obj\Debug\netcoreapp3.0\PolyMorphismChallenge.csprojAssemblyReference.cache

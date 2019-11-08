@@ -1,0 +1,11 @@
+C:\C#Udemy2\Fields\bin\Debug\netcoreapp3.0\Fields.exe
+C:\C#Udemy2\Fields\bin\Debug\netcoreapp3.0\Fields.deps.json
+C:\C#Udemy2\Fields\bin\Debug\netcoreapp3.0\Fields.runtimeconfig.json
+C:\C#Udemy2\Fields\bin\Debug\netcoreapp3.0\Fields.runtimeconfig.dev.json
+C:\C#Udemy2\Fields\bin\Debug\netcoreapp3.0\Fields.dll
+C:\C#Udemy2\Fields\bin\Debug\netcoreapp3.0\Fields.pdb
+C:\C#Udemy2\Fields\obj\Debug\netcoreapp3.0\Fields.csprojAssemblyReference.cache
+C:\C#Udemy2\Fields\obj\Debug\netcoreapp3.0\Fields.AssemblyInfoInputs.cache
+C:\C#Udemy2\Fields\obj\Debug\netcoreapp3.0\Fields.AssemblyInfo.cs
+C:\C#Udemy2\Fields\obj\Debug\netcoreapp3.0\Fields.dll
+C:\C#Udemy2\Fields\obj\Debug\netcoreapp3.0\Fields.pdb

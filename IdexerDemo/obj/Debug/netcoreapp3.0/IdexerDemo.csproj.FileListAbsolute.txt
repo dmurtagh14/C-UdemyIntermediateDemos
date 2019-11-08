@@ -1,0 +1,11 @@
+C:\C#Udemy2\IdexerDemo\bin\Debug\netcoreapp3.0\IdexerDemo.exe
+C:\C#Udemy2\IdexerDemo\bin\Debug\netcoreapp3.0\IdexerDemo.deps.json
+C:\C#Udemy2\IdexerDemo\bin\Debug\netcoreapp3.0\IdexerDemo.runtimeconfig.json
+C:\C#Udemy2\IdexerDemo\bin\Debug\netcoreapp3.0\IdexerDemo.runtimeconfig.dev.json
+C:\C#Udemy2\IdexerDemo\bin\Debug\netcoreapp3.0\IdexerDemo.dll
+C:\C#Udemy2\IdexerDemo\bin\Debug\netcoreapp3.0\IdexerDemo.pdb
+C:\C#Udemy2\IdexerDemo\obj\Debug\netcoreapp3.0\IdexerDemo.csprojAssemblyReference.cache
+C:\C#Udemy2\IdexerDemo\obj\Debug\netcoreapp3.0\IdexerDemo.AssemblyInfoInputs.cache
+C:\C#Udemy2\IdexerDemo\obj\Debug\netcoreapp3.0\IdexerDemo.AssemblyInfo.cs
+C:\C#Udemy2\IdexerDemo\obj\Debug\netcoreapp3.0\IdexerDemo.dll
+C:\C#Udemy2\IdexerDemo\obj\Debug\netcoreapp3.0\IdexerDemo.pdb

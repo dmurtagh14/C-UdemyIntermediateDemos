@@ -1,0 +1,11 @@
+C:\C#Udemy2\ConstructorDemo\bin\Debug\netcoreapp3.0\ConstructorDemo.exe
+C:\C#Udemy2\ConstructorDemo\bin\Debug\netcoreapp3.0\ConstructorDemo.deps.json
+C:\C#Udemy2\ConstructorDemo\bin\Debug\netcoreapp3.0\ConstructorDemo.runtimeconfig.json
+C:\C#Udemy2\ConstructorDemo\bin\Debug\netcoreapp3.0\ConstructorDemo.runtimeconfig.dev.json
+C:\C#Udemy2\ConstructorDemo\bin\Debug\netcoreapp3.0\ConstructorDemo.dll
+C:\C#Udemy2\ConstructorDemo\bin\Debug\netcoreapp3.0\ConstructorDemo.pdb
+C:\C#Udemy2\ConstructorDemo\obj\Debug\netcoreapp3.0\ConstructorDemo.csprojAssemblyReference.cache
+C:\C#Udemy2\ConstructorDemo\obj\Debug\netcoreapp3.0\ConstructorDemo.AssemblyInfoInputs.cache
+C:\C#Udemy2\ConstructorDemo\obj\Debug\netcoreapp3.0\ConstructorDemo.AssemblyInfo.cs
+C:\C#Udemy2\ConstructorDemo\obj\Debug\netcoreapp3.0\ConstructorDemo.dll
+C:\C#Udemy2\ConstructorDemo\obj\Debug\netcoreapp3.0\ConstructorDemo.pdb

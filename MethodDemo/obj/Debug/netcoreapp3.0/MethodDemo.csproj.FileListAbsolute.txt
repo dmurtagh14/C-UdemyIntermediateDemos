@@ -1,0 +1,11 @@
+C:\C#Udemy2\MethodDemo\bin\Debug\netcoreapp3.0\MethodDemo.exe
+C:\C#Udemy2\MethodDemo\bin\Debug\netcoreapp3.0\MethodDemo.deps.json
+C:\C#Udemy2\MethodDemo\bin\Debug\netcoreapp3.0\MethodDemo.runtimeconfig.json
+C:\C#Udemy2\MethodDemo\bin\Debug\netcoreapp3.0\MethodDemo.runtimeconfig.dev.json
+C:\C#Udemy2\MethodDemo\bin\Debug\netcoreapp3.0\MethodDemo.dll
+C:\C#Udemy2\MethodDemo\bin\Debug\netcoreapp3.0\MethodDemo.pdb
+C:\C#Udemy2\MethodDemo\obj\Debug\netcoreapp3.0\MethodDemo.csprojAssemblyReference.cache
+C:\C#Udemy2\MethodDemo\obj\Debug\netcoreapp3.0\MethodDemo.AssemblyInfoInputs.cache
+C:\C#Udemy2\MethodDemo\obj\Debug\netcoreapp3.0\MethodDemo.AssemblyInfo.cs
+C:\C#Udemy2\MethodDemo\obj\Debug\netcoreapp3.0\MethodDemo.dll
+C:\C#Udemy2\MethodDemo\obj\Debug\netcoreapp3.0\MethodDemo.pdb
